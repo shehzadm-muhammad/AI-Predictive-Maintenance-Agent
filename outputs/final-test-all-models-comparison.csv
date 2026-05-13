@@ -1,0 +1,4 @@
+model,dataset,threshold,tn,fp,fn,tp,accuracy,precision_pos,recall_pos,f1_pos,roc_auc,pr_auc,operational_cost
+MLP,Final Test,0.01,609,31,11,149,0.9475,0.8278,0.9313,0.8765,0.9678,0.9471,5810
+Gradient Boosting,Final Test,0.23,623,17,12,148,0.9637,0.897,0.925,0.9108,0.9712,0.9364,6170
+Extra Trees,Final Test,0.07,619,21,12,148,0.9587,0.8757,0.925,0.8997,0.9909,0.9584,6210

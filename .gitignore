@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Private/university files
+*report*
+*submission*
+*feedback*
+*marking*
+*specification*
+*coursework*
+*brief*
+*4200638*
+*student*
+
+# Data/privacy
+*.zip
+*.rar
+*.7z
+
+# Environment / keys
+.env
+*.key
+*.pem

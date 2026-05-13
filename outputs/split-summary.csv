@@ -1,0 +1,5 @@
+dataset,rows,positive_cases,negative_cases,positive_percentage
+Development train,6400,106.0,6294.0,1.66
+Validation,1600,27.0,1573.0,1.69
+Final test,800,160.0,640.0,20.0
+Operational feed,200,,,

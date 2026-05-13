@@ -1,0 +1,4 @@
+dataset,rows,columns,sensor_features,missing_cells,missing_percent,rows_with_missing_percent
+TRAIN,8000,171,170,113963,8.38,99.05
+TEST,800,171,170,14207,10.45,97.62
+OPERATIONAL,200,170,170,2519,7.41,99.0
